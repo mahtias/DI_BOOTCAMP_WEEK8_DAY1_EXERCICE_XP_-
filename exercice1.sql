@@ -35,7 +35,7 @@ CREATE TABLE students (
     - last_name: Simpson
     - first_name: Omer
     - birth_date: 03/10/1980
-    - last_name: Konate
+   
     - first_name: Mamadou
     - birth_date: 01/10/1999*/
 INSERT INTO étudiants (last_name, first_name, birth_date)
